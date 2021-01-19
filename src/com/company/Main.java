@@ -6,7 +6,8 @@ public class Main {
 	System.out.println("Hello Katya");
 System.out.println("Well done");
 
-;
+;System.out.println("New line added");//i added a new line
+
 
 
     }
